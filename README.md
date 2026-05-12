@@ -4,7 +4,7 @@ Automated watering system built with Arduino, an HC-SR04 ultrasonic sensor, a re
 
 The system controls water flow efficiently by activating the pump through a serial command and stopping it automatically once the water level drops by approximately 3 cm.
 
-![Setup](imagessetup.jpeg)
+![Setup](imagescircuit.jpeg)
 
 ## 🔍 Overview
 
